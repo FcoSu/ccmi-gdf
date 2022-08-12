@@ -15,4 +15,4 @@ mala manipulación del termómetro digital, etc.
  
 - Existe un proceso repetitivo que es producto de la continua asistencia de personas a las reuniones, ya que una persona asiste más de 3 veces a la semana, y cada una de las veces que asiste se le toman los mismos datos personales que se mencionan antes, y lo único que cambia es la temperatura registrada. Es un gasto de recursos, que a la larga, son un punto importante. (Trabajo innecesario, desgaste de horas de trabajo, etc.).
 
-- Luego de realizado todo el ingreso, los datos que se ingresaron podrían ser utilizados como métricas de medición de asistencia y otras más.
+- Luego de realizado todo el ingreso, los datos que se ingresaron podrían ser utilizados como métricas de medición de asistencia y otras más. 
